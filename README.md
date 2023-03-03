@@ -10,4 +10,5 @@ sudo dnf install go
 go run main.go
 go mod init web
 go build
+./web
 ```
